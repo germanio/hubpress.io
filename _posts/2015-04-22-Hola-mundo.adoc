@@ -5,7 +5,7 @@ germanio <german@centauri.co>
 :hp-tags: non tech, español
 
 ****
-quote
+sidebar
 
 La tecnología es un medio y no un fin en si mismo. Si no se puede mejorar la vida de las personas que nos rodean con lo que hacemos, no sirve.
  Por otro lado, el conocimiento libre y de fácil acceso es clave para la innovación, el desarrollo del pensamiento crítico y para alimentar la curiosidad sin límites que tenemos los seres humanos.
