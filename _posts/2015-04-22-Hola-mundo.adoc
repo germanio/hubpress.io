@@ -1,13 +1,13 @@
-# Hola mundo!
+= Hola mundo!
 
-## Porqué el blog?
+== Porqué el blog?
  Creo que la tecnología debe ser un medio para mejorar la calidad de vida de las personas y no un fin en si mismo.
  
  También creo que el conocimiento debe ser libre y estar al alcance de todos de manera uniforme.
  
  Entonces el blog va a intentar cumplir con ambas: compartir conocimiento usando tecnología, para ayudarnos unos a otros.
  
-## Qué van a encontrar acá?
+== Qué van a encontrar acá?
  La idea del blog es ir alimentándolo con posts sobre mi aprendizaje de nuevas tecnologías, traducciones de otros posts en inglés que valgan la pena compartir en español, problemas específicos que me encuentre en el día a día y distintas ideas sobre desarrollo de software, tecnología, metodologías, emprendedurismo y divulgación científica.
  
  Me parece interesante la idea de tener posts "inconclusos", en el sentido que una vez publicados, poder mejorarlos en base a comentarios, críticas constructivas, sugerencias, y todo aquello que me expliquen que simplemente está mal.
