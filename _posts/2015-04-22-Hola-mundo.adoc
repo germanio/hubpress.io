@@ -4,69 +4,19 @@ germanio <german@centauri.co>
 :app-version: 0.1
 :hp-tags: non tech, español
 
-****
-sidebar
-
-La tecnología es un medio y no un fin en si mismo. Si no se puede mejorar la vida de las personas que nos rodean con lo que hacemos, no sirve.
- Por otro lado, el conocimiento libre y de fácil acceso es clave para la innovación, el desarrollo del pensamiento crítico y para alimentar la curiosidad sin límites que tenemos los seres humanos.
- Entonces el blog va a intentar hacerle honor a ambas.
-****
-
-____
-quote
-
-La tecnología es un medio y no un fin en si mismo. Si no se puede mejorar la vida de las personas que nos rodean con lo que hacemos, no sirve.
- Por otro lado, el conocimiento libre y de fácil acceso es clave para la innovación, el desarrollo del pensamiento crítico y para alimentar la curiosidad sin límites que tenemos los seres humanos.
- Entonces el blog va a intentar hacerle honor a ambas.
-____
-
-++++
-pass
-
-La tecnología es un medio y no un fin en si mismo. Si no se puede mejorar la vida de las personas que nos rodean con lo que hacemos, no sirve.
- Por otro lado, el conocimiento libre y de fácil acceso es clave para la innovación, el desarrollo del pensamiento crítico y para alimentar la curiosidad sin límites que tenemos los seres humanos.
- Entonces el blog va a intentar hacerle honor a ambas.
-++++
-
-
---
-open
-
-La tecnología es un medio y no un fin en si mismo. Si no se puede mejorar la vida de las personas que nos rodean con lo que hacemos, no sirve.
- Por otro lado, el conocimiento libre y de fácil acceso es clave para la innovación, el desarrollo del pensamiento crítico y para alimentar la curiosidad sin límites que tenemos los seres humanos.
- Entonces el blog va a intentar hacerle honor a ambas.
---
-
-----
-listing, source
-
-La tecnología es un medio y no un fin en si mismo. Si no se puede mejorar la vida de las personas que nos rodean con lo que hacemos, no sirve.
- Por otro lado, el conocimiento libre y de fácil acceso es clave para la innovación, el desarrollo del pensamiento crítico y para alimentar la curiosidad sin límites que tenemos los seres humanos.
- Entonces el blog va a intentar hacerle honor a ambas.
-----
-
-....
-probando el block literal
-La tecnología es un medio y no un fin en si mismo. Si no se puede mejorar la vida de las personas que nos rodean con lo que hacemos, no sirve.
- Por otro lado, el conocimiento libre y de fácil acceso es clave para la innovación, el desarrollo del pensamiento crítico y para alimentar la curiosidad sin límites que tenemos los seres humanos.
- Entonces el blog va a intentar hacerle honor a ambas.
-....
-====
-probando el block example
-
-La tecnología es un medio y no un fin en si mismo. Si no se puede mejorar la vida de las personas que nos rodean con lo que hacemos, no sirve.
- Por otro lado, el conocimiento libre y de fácil acceso es clave para la innovación, el desarrollo del pensamiento crítico y para alimentar la curiosidad sin límites que tenemos los seres humanos.
- Entonces el blog va a intentar hacerle honor a ambas.
-====
-
 == Porqué el blog?
 
+--
  La tecnología es un medio y no un fin en si mismo. Si no se puede mejorar la vida de las personas que nos rodean con lo que hacemos, no sirve.
  Por otro lado, el conocimiento libre y de fácil acceso es clave para la innovación, el desarrollo del pensamiento crítico y para alimentar la curiosidad sin límites que tenemos los seres humanos.
  Entonces el blog va a intentar hacerle honor a ambas.
- 
+--
+
 == Qué van a encontrar acá?
 
+--
  Posts sobre tecnologías con las que me encuentro, traducciones de contenido en inglés que valga la pena compartir en español, problemas específicos que me encuentre en el día a día y distintas ideas sobre desarrollo de software, metodologías y divulgación científica.
 
  A ver cómo sale.
+ 
+--
