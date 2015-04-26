@@ -2,15 +2,12 @@
 :hp-tags: non tech, español
 
 == Porqué el blog?
- Creo que la tecnología debe ser un medio para mejorar la calidad de vida de las personas y no un fin en si mismo.
- 
- También creo que el conocimiento debe ser libre y estar al alcance de todos de manera uniforme.
- 
- Entonces el blog va a intentar cumplir con ambas: compartir conocimiento usando tecnología, para ayudarnos unos a otros.
+ La tecnología es un medio y no un fin en si mismo. Si no se puede mejorar la vida de las personas que nos rodean con lo que hacemos, no sirve.
+ Por otro lado, el conocimiento libre y de fácil acceso es clave para la innovación, el desarrollo del pensamiento crítico y para alimentar la curiosidad sin límites que tenemos los seres humanos.
+ Entonces el blog va a intentar hacerle honor a ambas.
  
 == Qué van a encontrar acá?
- La idea del blog es ir alimentándolo con posts sobre mi aprendizaje de nuevas tecnologías, traducciones de otros posts en inglés que valgan la pena compartir en español, problemas específicos que me encuentre en el día a día y distintas ideas sobre desarrollo de software, tecnología, metodologías, emprendedurismo y divulgación científica.
+ Posts sobre tecnologías con las que me encuentro, traducciones de contenido en inglés que valga la pena compartir en español, problemas específicos que me encuentre en el día a día y distintas ideas sobre desarrollo de software, metodologías y divulgación científica.
+ Me parece interesante la idea de tener posts "inconclusos", en el sentido de, una vez publicados, poder mejorarlos en base a comentarios, críticas constructivas, sugerencias, y todo aquello que me expliquen que simplemente está mal.
  
- Me parece interesante la idea de tener posts "inconclusos", en el sentido que una vez publicados, poder mejorarlos en base a comentarios, críticas constructivas, sugerencias, y todo aquello que me expliquen que simplemente está mal.
- 
- A ver cómo sale. Espero que nos sirva!
+ A ver cómo sale.
