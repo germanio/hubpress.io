@@ -1,1 +1,6 @@
 = Estrategia de versionado usando Git: Git Flow
+:hp-tags: git, software, español
+
+--
+Basado en el texto git-flow original.
+--
