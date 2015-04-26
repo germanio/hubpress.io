@@ -1,4 +1,5 @@
 = Hola mundo!
+:hp-tags: non tech, español
 
 == Porqué el blog?
  Creo que la tecnología debe ser un medio para mejorar la calidad de vida de las personas y no un fin en si mismo.
