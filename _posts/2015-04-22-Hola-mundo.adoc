@@ -8,6 +8,5 @@
  
 == Qué van a encontrar acá?
  Posts sobre tecnologías con las que me encuentro, traducciones de contenido en inglés que valga la pena compartir en español, problemas específicos que me encuentre en el día a día y distintas ideas sobre desarrollo de software, metodologías y divulgación científica.
- Me parece interesante la idea de tener posts "inconclusos", en el sentido de, una vez publicados, poder mejorarlos en base a comentarios, críticas constructivas, sugerencias, y todo aquello que me expliquen que simplemente está mal.
- 
+
  A ver cómo sale.
