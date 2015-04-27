@@ -1,3 +1,8 @@
 = Intro
 
-Hola mundo!
+Hola mundo! 
+
+== De qué se trata el blog?
+Mientras pruebo las virtudes de HubPress y Github Pages, aprovecho para generar un espacio donde guardar y compartir información sobre tecnología, desarrollo de software, metodologías y divulgación científica.
+
+A ver cómo me va.
