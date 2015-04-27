@@ -1,12 +1,3 @@
-= Hola mundo!
-:app-version: 0.1
-:hp-tags: non tech, español
+= Intro
 
---
- La tecnología es un medio para mejorar el mundo en que vivimos y no un fin en si mismo.
---
-
-== Qué van a encontrar acá?
- Información sobre desarrollo de software, metodologías y divulgación científica.
-
- A ver cómo sale.
+Hola mundo!
