@@ -1,0 +1,4 @@
+# Markdown: texto enriquecido en html, sin html
+
+Una traducción de: http://daringfireball.net/projects/markdown/
+
