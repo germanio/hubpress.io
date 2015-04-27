@@ -1,4 +1,5 @@
 = Intro
+:hp-tags: blah blah, español
 
 Hola mundo! 
 
