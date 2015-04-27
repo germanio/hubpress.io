@@ -1,1 +1,7 @@
 = Pruebas unitarias: Mockito
+germanio <german@centauri.co>
+2015-04-26
+:app-version: 0.1
+:hp-tags: unit test, mockito, software
+
+TIP: que hacemo?
